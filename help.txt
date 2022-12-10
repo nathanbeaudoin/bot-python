@@ -1,0 +1,3 @@
+install python: cmd → tape: python → clik install
+install gtts: ctrl + ù → tape: pip install gtts
+install SpeechRecognition: ctrl + ù → tape: pip install SpeechRecognition
